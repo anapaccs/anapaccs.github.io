@@ -35,8 +35,7 @@ Education
 Work experience
 ======
 * European Commission - Directorate General of Regional and Urban Policy (DG REGIO) - Unit of Evaluation & European Semester
-  * 2022--2023
-  * Blue Book Trainee, Brussels, Belgium
+  * 2022--2023 --- Blue Book Trainee, Brussels, Belgium
     * Manage the ex-post evaluation of the 2014-2020 Cohesion Policy period, especially the (1) synthesis of the effectiveness and impact of cohesion investments and (2) preparatory data collection and harmonization working packages;
     * Coordinate cross-functional production of Cohesion Country Reports for the 2023 European Semester;
     * Analyze Cohesion Funds investments in SMEs by sector, size, and territorial scope of beneficiaries;
@@ -46,8 +45,7 @@ Work experience
     * Oversee the automated indicators validity system for monitoring Cohesion programs.
 
 * Emotional Cities Project - European Commission's Horizon 2020
-  * Research Assistant, Cambridge UK
-  * 2021--2022
+  * 2021--2022 --- Research Assistant, Cambridge UK
     * Conduct a systematic review of urban health policy reports at global, regional, and local levels, aiming to establish a theoretical framework for causal relations between urban health determinants;
     * Collect, process, map, and analyze urban health spatial data specifically focused on London;
     * Utilize machine learning techniques to collect and categorize tweets based on the emotional state of the writer;
@@ -55,28 +53,24 @@ Work experience
     * Prepare project reports to present research findings to EC Horizon 2020.
 
 * Urban Environmental Management Research Group - UnB
-  * Research Collaborator, Brasília, Brazil
-  * 2016--2021
+  * 2016--2021 --- Research Collaborator, Brasília, Brazil
     * Conduct and publish research, resulting in 3 peer-reviewed articles, 1 book chapter, and 4 international conference presentations;
     * Coordinate and edit a compilation book focused on the interplay between cityscape, nature, and people;
     * Plan and organize two one-week knowledge exchange workshops in 2018 and 2019, centered around the topic of green cities. These workshops involved 40 early career researchers from the UK and Brazil and were funded by the Newton and FAP-DF Foundation.
 
 * Federal District Secretariat of Urban Development and Housing
-  * Director of Sustainability and Urban Planning, Brasília, Brazil
-  * 2019--2020
+  * 2019--2020 --- Director of Sustainability and Urban Planning, Brasília, Brazil
     * Lead and coordinate a team of 6 urban planning specialists;
     * Coordinate the decennial review process of the Federal District Master Plan, including setting the general vision and goals, organizing thematic working groups, and overseeing the timeline and participatory process;
     * Coordinate the Environment and Infrastructure working group in the review process of the Federal District Master Plan, consisting of around 25 specialists from the government, industry, and organized civil society;
     * Propose regulation for an urban green areas system, which involved assessing, inventorying, categorizing, providing multi-functionality guidelines, and implementing management and monitoring practices.
-  * Advisor of Sustainability and Urban Planning, Brasília, Brazil
-  * 2017--2019
+  * 2017--2019 --- Advisor of Sustainability and Urban Planning, Brasília, Brazil
     * Propose regulations to establish instruments for land value capture, resulting in legislative approval and improvement in district fiscal health;
     * Plan and develop an open data platform for urban development indicators, aimed at enhancing accountability, public engagement, and the overall effectiveness of urban planning, management, and research;
     * Develop regulation for a shared management of Water Source Protection Areas. between environment, water, and urban agencies.
 
 * Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
-  * Sustainable Development Consultant, Brasília, Brazil
-  * 2015--2016
+  * 2015--2016 --- Sustainable Development Consultant, Brasília, Brazil
     * Provide technical support for the Cooperation "Energy Efficiency in Affordable Housing" in collaboration with the Brazilian Ministry of Cities;
     * Analyze the social housing prototype built in Rio de Janeiro, evaluating the adoption of energy efficiency principles and quality design guidelines;
     * Review, systematize, and summarize the results of all capacity building initiatives within the social housing program Minha Casa Minha Vida (PMCMV) to identify opportunities for sustainability improvement;
