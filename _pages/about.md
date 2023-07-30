@@ -13,4 +13,4 @@ I am a happy and passionate young professional specializing in the complex relat
 
 For more info
 ------
-More info about me can be found in [the publications](publications/) or contact me!
+More info about me can be found in [the cv page](cv/) or contact me!
