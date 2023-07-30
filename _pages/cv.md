@@ -64,9 +64,15 @@ Work experience
 * Federal District Secretariat of Urban Development and Housing
   * Director of Sustainability and Urban Planning, Brasília, Brazil
   * 2019--2020
-  * 
+    * Lead and coordinate a team of 6 urban planning specialists;
+    * Coordinate the decennial review process of the Federal District Master Plan, including setting the general vision and goals, organizing thematic working groups, and overseeing the timeline and participatory process;
+    * Coordinate the Environment and Infrastructure working group in the review process of the Federal District Master Plan, consisting of around 25 specialists from the government, industry, and organized civil society;
+    * Propose regulation for an urban green areas system, which involved assessing, inventorying, categorizing, providing multi-functionality guidelines, and implementing management and monitoring practices.
   * Advisor of Sustainability and Urban Planning, Brasília, Brazil
   * 2017--2019
+    * Propose regulations to establish instruments for land value capture, resulting in legislative approval and improvement in district fiscal health;
+    * Plan and develop an open data platform for urban development indicators, aimed at enhancing accountability, public engagement, and the overall effectiveness of urban planning, management, and research;
+    * Develop regulation for a shared management of Water Source Protection Areas. between environment, water, and urban agencies.
 
 * Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
   * Sustainable Development Consultant, Brasília, Brazil
